@@ -5,13 +5,14 @@
 - neues Feedbackformular für Schülerinnen erstellen 
 
 ## Zeitplan/Ablauf: 
-1) Begrüßung und Rezept
-2) Intro (Was ist ein Chatbot)
-3) Python Syntax 1 (strings)
-4) Python Syntax 2 (conditions and loops)
-5) Hangman
-6) Python Syntax 3 (functions)
-7) Gruppenarbeitsphase
+1) Begrüßung und Rezept(siehe Hinweise Rezept.docx) - evtl. weglassen?
+2) [Intro](instroduction.pptx) (Was ist ein Chatbot)
+3) Python Syntax 1 (strings): [Slides](strings.pptx), [Notebook](string_uebungen.ipynb), [Lösungen](string_uebungen_Loesungen.ipynb)
+4) Python Syntax 2 (conditions): [Slides](conditions.pptx), [Notebook](conditions.ipynb), [Lösungen](conditions)
+5) Python Syntag 3 (loops): [Slides], [Notebook], [Lösungen]
+6) Hangman: [Slides], [Notebook], [Lösungen]
+7) Python Syntax 4 (functions): [Slides], [Notebook], [Lösungen]
+8) Gruppenarbeitsphase
 Slides und Notebooks
 
 ## Stichpunkte zum Kursinhalt
