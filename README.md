@@ -1,5 +1,9 @@
 # Chatbot
 
+## ToDo: 
+- Kommentare loops Präsentation einarbeiten
+- neues Feedbackformular für Schülerinnen erstellen 
+
 ## Zeitplan/Ablauf: 
 1) Begrüßung und Rezept
 2) Intro (Was ist ein Chatbot)
