@@ -7,13 +7,12 @@
 ## Zeitplan/Ablauf: 
 1) Begrüßung und Rezept(siehe Hinweise Rezept.docx) - evtl. weglassen?
 2) [Intro](instroduction.pptx) (Was ist ein Chatbot)
-3) Python Syntax 1 (strings): [Slides](strings.pptx), [Notebook](string_uebungen.ipynb), [Lösungen](string_uebungen_Loesungen.ipynb)
-4) Python Syntax 2 (conditions): [Slides](conditions.pptx), [Notebook](conditions.ipynb), [Lösungen](conditions)
-5) Python Syntag 3 (loops): [Slides], [Notebook], [Lösungen]
-6) Hangman: [Slides], [Notebook], [Lösungen]
-7) Python Syntax 4 (functions): [Slides], [Notebook], [Lösungen]
+3) Python Syntax 1 (strings): [Slides](strings.pptx), [Notebook](strings.ipynb), [Lösungen](strings_lösungen.ipynb)
+4) Python Syntax 2 (conditions): [Slides](conditions.pptx), [Notebook](conditions.ipynb), [Lösungen](conditions_lösungen.ipynb)
+5) Python Syntag 3 (loops): [Slides](loops.pptx), [Notebook](schleifen.ipynb), [Lösungen](schleifen_lösungen.ipynb)
+6) Hangman: [Notebook](hangman.ipynb), [Lösungen](hangman_lösungen.ipynb)
+7) Python Syntax 4 (functions): [Slides](functions.pptx), [Notebook](functions.ipynb), [Lösungen](functions_lösungen.ipynb)
 8) Gruppenarbeitsphase
-Slides und Notebooks
 
 ## Stichpunkte zum Kursinhalt
 - Im Chatbot-Kurs lernt ihr, wie man einen kleinen Bot schreibt, der mit euch kommunizieren kann – so wie Siri, nur einfacher.
