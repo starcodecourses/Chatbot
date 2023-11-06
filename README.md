@@ -26,7 +26,7 @@
     - Ein Chatbot, der euch bei einer Reisebuchung hilft.
 - Ihr könnt eurer Kreativität freien Lauf lassen. 😄
 
-## genreller Überblick 
+## genereller Überblick 
 Ein Chatbot ist eine kleine künstliche Intelligenz, die sprachlich mit Menschen interagieren kann. Das schöne an Chatbots ist, dass sie sehr niederschwellig anfangen. Auch das folgende Python-Programm ist im Prinzip schon ein Chatbot:
 
 `name = input("Hi! I'm Alex, the chatbot! What is your name?\n")`
