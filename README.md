@@ -6,7 +6,7 @@
 
 ## Zeitplan/Ablauf: 
 1) Begrüßung und Rezept(siehe Hinweise Rezept.docx) - evtl. weglassen?
-2) [Intro](instroduction.pptx) (Was ist ein Chatbot)
+2) [Intro](introduction.pptx) (Was ist ein Chatbot)
 3) Python Syntax 1 (strings): [Slides](strings.pptx), [Notebook](strings.ipynb), [Lösungen](strings_lösungen.ipynb)
 4) Python Syntax 2 (conditions): [Slides](conditions.pptx), [Notebook](conditions.ipynb), [Lösungen](conditions_lösungen.ipynb)
 5) Python Syntag 3 (loops): [Slides](loops.pptx), [Notebook](schleifen.ipynb), [Lösungen](schleifen_lösungen.ipynb)
